@@ -26,4 +26,9 @@ To use the Shining Text component in your React application, follow these steps:
    ```
 ![ScreenRecording2024-08-16at11 45 47AM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/47b2e461-db9e-42d8-baf0-5a32bd3490b7)
 
-[buying me a coffee](https://buymeacoffee.com/samjakshtis)
+## Support
+
+If you find this project useful and want to support my work, please consider [buying me a coffee](https://www.buymeacoffee.com/samjakshtis). Your support is greatly appreciated!
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-blue.png)](https://www.buymeacoffee.com/samjakshtis)
+

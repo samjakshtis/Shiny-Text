@@ -25,9 +25,9 @@ To use the Shining Text component in your React application, follow these steps:
    If published on npm, you can install the component using npm or yarn:
 
    ```bash
-   npm install shining-text-component
+   npm install shiny-text
    # or
-   yarn add shining-text-component
+   yarn add shiny-text
    ```
 2. **Add to Project**
 ## Example

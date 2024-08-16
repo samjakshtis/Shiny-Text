@@ -1,0 +1,28 @@
+{
+  "name": "shiny-text",
+  "version": "1.0.0",
+  "description": "A component to make your text shine ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samjakshtis/Shiny-Text.git"
+  },
+  "keywords": [
+    "Shine",
+    "Shiny-text",
+    "text",
+    "Shiny"
+  ],
+  "author": "Sam Jakshtis <sam.jakshtis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samjakshtis/Shiny-Text/issues"
+  },
+  "homepage": "https://github.com/samjakshtis/Shiny-Text#readme",
+  "dependencies": {
+    "react": "^18.3.1"
+  }
+}
